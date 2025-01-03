@@ -1,0 +1,6 @@
+.env
+venv
+.db
+.txt
+prev sys_prompt.txt
+.env
